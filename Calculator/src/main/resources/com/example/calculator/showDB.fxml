@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="286.0" prefWidth="295.0" xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.calculator.ViewDB">
+   <children>
+      <TableView fx:id="table" layoutX="14.0" layoutY="52.0" prefHeight="220.0" prefWidth="266.0">
+         <columns>
+            <TableColumn fx:id="col_id" prefWidth="75.0" text="id" />
+            <TableColumn fx:id="col_exp" prefWidth="82.4000244140625" text="expession" />
+            <TableColumn fx:id="col_res" prefWidth="68.0" text="res" />
+         </columns></TableView>
+      <TextField fx:id="txt_search" layoutX="88.0" layoutY="14.0" prefHeight="22.0" prefWidth="192.0" promptText="Search">
+         <font>
+            <Font name="Times New Roman Italic" size="12.0" />
+         </font>
+      </TextField>
+      <Label layoutX="14.0" layoutY="17.0" text="Write text">
+         <font>
+            <Font name="Times New Roman Italic" size="13.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

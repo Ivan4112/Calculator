@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="jdbc">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://F:/Drivers-JavaFx&amp;SQL/sqljdbc_10.2.1.0_rus/sqljdbc_10.2/rus/samples/adaptive" />
+      <root url="file://F:/Drivers-JavaFx&amp;SQL/sqljdbc_10.2.1.0_rus/sqljdbc_10.2/rus/samples/alwaysencrypted" />
+      <root url="file://F:/Drivers-JavaFx&amp;SQL/sqljdbc_10.2.1.0_rus/sqljdbc_10.2/rus/samples/azureactivedirectoryauthentication" />
+      <root url="file://F:/Drivers-JavaFx&amp;SQL/sqljdbc_10.2.1.0_rus/sqljdbc_10.2/rus/samples/connections" />
+      <root url="file://F:/Drivers-JavaFx&amp;SQL/sqljdbc_10.2.1.0_rus/sqljdbc_10.2/rus/samples/constrained" />
+      <root url="file://F:/Drivers-JavaFx&amp;SQL/sqljdbc_10.2.1.0_rus/sqljdbc_10.2/rus/samples/dataclassification" />
+      <root url="file://F:/Drivers-JavaFx&amp;SQL/sqljdbc_10.2.1.0_rus/sqljdbc_10.2/rus/samples/datatypes" />
+      <root url="file://F:/Drivers-JavaFx&amp;SQL/sqljdbc_10.2.1.0_rus/sqljdbc_10.2/rus/samples/resultsets" />
+      <root url="file://F:/Drivers-JavaFx&amp;SQL/sqljdbc_10.2.1.0_rus/sqljdbc_10.2/rus/samples/sparse" />
+    </SOURCES>
+  </library>
+</component>
